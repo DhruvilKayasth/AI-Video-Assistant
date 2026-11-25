@@ -1,0 +1,27 @@
+# AI Meeting Assistant
+
+# Streamlit UI
+streamlit
+
+# Environment variables and API configuration
+python-dotenv
+
+# YouTube audio download and audio processing
+yt-dlp
+pydub
+
+# Local speech-to-text transcription (Whisper)
+openai-whisper
+torch
+
+# LangChain LCEL and Mistral API integration
+langchain-core
+langchain-mistralai
+langchain-community
+
+# Vector database and Hugging Face embeddings for RAG
+chromadb
+sentence-transformers
+
+# PDF export
+reportlab

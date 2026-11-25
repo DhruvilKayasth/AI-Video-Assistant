@@ -6,6 +6,10 @@ Instead of spending hours watching lengthy videos, MeetMind helps you quickly un
 
 Built using **Python, Streamlit, OpenAI Whisper, Groq, LangChain, and ChromaDB**.
 
+## 🖥️ Application Preview
+
+![MeetMind Homepage](meetmind-home.png)
+
 ## ✨ Features
 
 - 🎥 **YouTube Video Processing:** Extract audio from YouTube videos.
